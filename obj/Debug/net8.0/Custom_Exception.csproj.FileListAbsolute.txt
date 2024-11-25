@@ -1,0 +1,14 @@
+D:\HomeWork_PDP\Custom_Exception\bin\Debug\net8.0\Custom_Exception.exe
+D:\HomeWork_PDP\Custom_Exception\bin\Debug\net8.0\Custom_Exception.deps.json
+D:\HomeWork_PDP\Custom_Exception\bin\Debug\net8.0\Custom_Exception.runtimeconfig.json
+D:\HomeWork_PDP\Custom_Exception\bin\Debug\net8.0\Custom_Exception.dll
+D:\HomeWork_PDP\Custom_Exception\bin\Debug\net8.0\Custom_Exception.pdb
+D:\HomeWork_PDP\Custom_Exception\obj\Debug\net8.0\Custom_Exception.GeneratedMSBuildEditorConfig.editorconfig
+D:\HomeWork_PDP\Custom_Exception\obj\Debug\net8.0\Custom_Exception.AssemblyInfoInputs.cache
+D:\HomeWork_PDP\Custom_Exception\obj\Debug\net8.0\Custom_Exception.AssemblyInfo.cs
+D:\HomeWork_PDP\Custom_Exception\obj\Debug\net8.0\Custom_Exception.csproj.CoreCompileInputs.cache
+D:\HomeWork_PDP\Custom_Exception\obj\Debug\net8.0\Custom_Exception.dll
+D:\HomeWork_PDP\Custom_Exception\obj\Debug\net8.0\refint\Custom_Exception.dll
+D:\HomeWork_PDP\Custom_Exception\obj\Debug\net8.0\Custom_Exception.pdb
+D:\HomeWork_PDP\Custom_Exception\obj\Debug\net8.0\Custom_Exception.genruntimeconfig.cache
+D:\HomeWork_PDP\Custom_Exception\obj\Debug\net8.0\ref\Custom_Exception.dll
